@@ -1,0 +1,112 @@
+.hero {
+
+}
+.hero__logo {
+    position: absolute;
+    top: 80px;
+    margin-left: 678px;
+}
+
+#main-content {
+	width: 1100px;
+	margin: -2px auto 0 auto;
+}
+
+section#leftbox {
+	background-image: url(../images/leftbox.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 658px;
+	margin-top: -61px;
+	margin-left: -16px;
+	position: relative;
+	
+}
+section#leftbox .leftbox__download-interlude-client-direct-button {
+	position: absolute;
+	bottom: 149px;
+	left: 105px;
+}
+
+section#leftbox .leftbox__download-interlude-client-torrent-button {
+	position: absolute;
+	bottom: 115px;
+	left: 105px;
+}
+
+section#leftbox .leftbox__download-patch-button {
+	position: absolute;
+	bottom: 27px;
+	left: 105px;
+}
+
+section#rightbox {
+	background: url('../images/bg@rightbox.png') no-repeat;
+	width: 734px;
+	height: 954px;
+	display: block;
+	border: none;
+	overflow: hidden;
+}
+
+section#rightbox .rightbox__container {
+	margin-left: 70px;
+	margin-right: 60px;
+	margin-top: 20px;
+}
+section#rightbox .rightbox__container .rightbox__left {
+	width: 50%;
+	margin-right: 10%;
+	float: left;
+}
+section#rightbox .rightbox__container .rightbox__right {
+	width: 40%;
+	float: left;
+}
+
+.text__title {
+	font-family: 'TeXGyrePagella';
+	font-weight: 300;
+	font-size: 24px;
+	color: #DD8F09;
+	line-height: 1.2;
+	padding: 0;
+	margin: 0 0 5px 0;
+}
+
+.text__subtitle {
+	font-family: 'TeXGyrePagella';
+	color: #DD8F09;
+	font-size: 14px;
+	padding: 0;
+}
+
+.text__date {
+	font-size: 12px;
+	font-family: 'TeXGyrePagella';
+	font-weight: 300;
+	color: #624b23;
+	margin-top: 5px;
+}
+.text__date .day {
+	color: #DD8F09;
+	font-size: 18px;
+	padding: 0;
+}
+
+.text__box p {
+	padding-top: 0;
+	margin-top: 10px 0 0 0;
+	font-family: 'TeXGyrePagella';
+	font-weight: 300;
+	color: #FFF9F3;
+	font-size: 13px;
+}
+.text__box a {
+	border-bottom: 1px dotted #C79A4D;
+	color: #C79A4D;
+}
+hr.divider {
+	border-top: 0;
+	border-color: #A66B04;
+}

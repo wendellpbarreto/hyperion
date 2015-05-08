@@ -1,0 +1,73 @@
+
+
+
+#login input[type="text"]{
+    color: #ffffff;
+    width: 182px;
+    height: 26px;
+    font-size: 12px;
+    background: url(img/loginbg.png) no-repeat;
+    font-family:"Palatino Linotype","Book Antiqua",Palatino,FreeSerif,serif;
+    padding: 0px 0px;
+    border: 0;
+    position: relative; bottom: 10px;
+    text-indent: 6px;
+   
+}
+
+
+#login input[type="password"] {
+    color: #ffffff;
+    width: 182px;
+    height: 26px;
+    font-size: 12px;
+    background: url(img/loginbg.png) no-repeat;
+    font-family:"Palatino Linotype","Book Antiqua",Palatino,FreeSerif,serif;
+    padding: 0px 0px;
+    border: 0;
+    position: relative; bottom: 10px;
+     text-indent: 6px;
+   
+}
+
+
+
+
+
+#comment input[type="text"]{
+    color: #ffffff;
+    width: 182px;
+    height: 26px;
+    font-size: 12px;
+    background: url(img/loginbg.png) no-repeat;
+    font-family:"Palatino Linotype","Book Antiqua",Palatino,FreeSerif,serif;
+    padding: 0px 0px;
+    border: 0;
+    position: relative; bottom: 5px;
+    text-indent: 6px;
+   
+}
+
+
+#comment input[type="password"] {
+    color: #ffffff;
+    width: 182px;
+    height: 26px;
+    font-size: 12px;
+    background: url(img/loginbg.png) no-repeat;
+    font-family:"Palatino Linotype","Book Antiqua",Palatino,FreeSerif,serif;
+    padding: 0px 0px;
+    border: 0;
+    position: relative; bottom: 5px;
+     text-indent: 6px;
+   
+}
+
+#comment input[type="submit"] {
+    background: url(img/submit.png);
+    height: 24px;
+    width: 127px;
+    border: 0;
+    cursor: pointer;
+    position: relative; bottom: 1px;
+}

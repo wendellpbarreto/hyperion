@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'TeXGyrePagella';
+  src: url('texgyrepagella-bold.eot'); /* IE9 Compat Modes */
+  src: url('texgyrepagella-bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('texgyrepagella-bold.woff') format('woff'), /* Modern Browsers */
+       url('texgyrepagella-bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('texgyrepagella-bold.svg#f37967095fb32693d7a7954817f36d26') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'TeXGyrePagella';
+  src: url('texgyrepagella-bolditalic.eot'); /* IE9 Compat Modes */
+  src: url('texgyrepagella-bolditalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('texgyrepagella-bolditalic.woff') format('woff'), /* Modern Browsers */
+       url('texgyrepagella-bolditalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('texgyrepagella-bolditalic.svg#93a9452bfb2d0fe3222863939220b233') format('svg'); /* Legacy iOS */
+       
+  font-style:   italic;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'TeXGyrePagella';
+  src: url('texgyrepagella-italic.eot'); /* IE9 Compat Modes */
+  src: url('texgyrepagella-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('texgyrepagella-italic.woff') format('woff'), /* Modern Browsers */
+       url('texgyrepagella-italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('texgyrepagella-italic.svg#ad3f33a6510e80ef70366eaefe818c9a') format('svg'); /* Legacy iOS */
+       
+  font-style:   italic;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'TeXGyrePagella';
+  src: url('texgyrepagella-regular.eot'); /* IE9 Compat Modes */
+  src: url('texgyrepagella-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('texgyrepagella-regular.woff') format('woff'), /* Modern Browsers */
+       url('texgyrepagella-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('texgyrepagella-regular.svg#f8e2b46f0c6979dc5d5b76d72edb6a97') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+

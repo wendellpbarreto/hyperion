@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Felix Titling';
+  src: url('Felixti.eot'); /* IE9 Compat Modes */
+  src: url('Felixti.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Felixti.woff') format('woff'), /* Modern Browsers */
+       url('Felixti.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Felixti.svg#9d5736c571ddc2e5d26a5d47c6ef1a49') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
